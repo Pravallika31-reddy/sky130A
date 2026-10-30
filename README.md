@@ -68,7 +68,8 @@ The CMOS inverter schematic was developed using Xschem with the SKY130A technolo
 
 The schematic represents the complementary PMOS and NMOS transistor configuration.
 
-![CMOS Inverter Schematic](images/01_schematic.png)
+<img width="1462" height="977" alt="Screenshot 2026-10-29 152949" src="https://github.com/user-attachments/assets/e6e4723c-9e36-4993-83bb-565f6eab7dc6" />
+
 
 ## 7. Circuit Simulation
 
@@ -76,7 +77,8 @@ Pre-layout simulation was performed using NGSpice to study the switching behavio
 
 The transient analysis helps evaluate the relationship between the input and output signals.
 
-![NGSpice Simulation](images/02_simulation.png)
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 001312" src="https://github.com/user-attachments/assets/e1f93e03-72e7-478c-b65b-3d9e33a78f8a" />
+
 
 ## 8. Waveform Analysis
 
@@ -88,7 +90,8 @@ Expected behaviour:
 - HIGH input produces LOW output.
 - The output follows the logical complement of the input.
 
-![Input and Output Waveforms](images/03_waveform.png)
+<img width="1920" height="1080" alt="Screenshot 2026-10-30 001024" src="https://github.com/user-attachments/assets/3f0dc52e-a012-4943-918e-9ccda3d42941" />
+
 
 ## 9. Current Project Status
 
