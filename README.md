@@ -146,9 +146,9 @@ The extracted netlist can be simulated using NGSpice to evaluate the inverter's 
 | Input/output waveform analysis | Completed |
 | Magic VLSI physical layout | Completed |
 | Design Rule Check (DRC) | Completed — 0 reported errors |
-| Layout Versus Schematic (LVS) | Verify result |
-| Parasitic extraction | Verify result |
-| Post-layout simulation | Verify result |
+| Layout Versus Schematic (LVS) |Completed |
+| Parasitic extraction | Completed |
+| Post-layout simulation | Completed |
 
 ## 14. Learning Outcomes
 
